@@ -1,0 +1,82 @@
+ .sidebar{
+     width: 250px;
+     height: 100vh;
+     margin:30px 50px;
+ }
+ .topbar{
+    display: flex;
+    vertical-align: auto;
+}
+
+
+.text-1{
+     font-family: Product Sans;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 24px;
+     margin-left: 20px;
+     margin-top: -1px;
+     color: #304858;
+
+}
+.text-2{
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3629B7;
+    margin: 20px;
+    margin-bottom: 40px;
+}
+.middlebar{
+    display: flex;
+    margin-top: 30px;
+}
+.text-3{
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    margin-left: 20px;
+    margin-top: 1px;
+    color: #838383;
+}
+.text-4{
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 60px 20px;
+
+    color: #3629B7;
+
+}
+.text-5{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    margin-left: 20px;
+    color: #591AED;
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #F9FAFF;
+    border-radius: 5px;
+    width: 220px;
+    height: 80px;
+    margin-top: 60px;
+    margin-left:-30px ;
+}
+.next-icon{
+    margin-left: 60px;
+    
+}

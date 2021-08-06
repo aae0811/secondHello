@@ -1,0 +1,106 @@
+
+
+.text-9{
+    font-family: Gilroy-Light;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+
+}
+.text-10{
+    font-family: Gilroy-Medium;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+
+}
+.line{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.text-11{
+    margin-left: 130px;
+}
+.text-12{
+    margin-left: -130px;
+}
+.car{
+    margin-top: -160px;
+    
+}
+.champ{
+    display: flex;
+    margin-top: 30px;
+}
+.cat{
+    width: 64px;
+    height: 64px;
+    background-color: #e294a6;
+    border-radius:50%;
+}
+.incat{
+    padding: 20px;
+}
+.moon{
+    width: 64px;
+    height: 64px;
+    background-color: #b09fda;;
+    border-radius:50%;
+}
+.inmoon{
+    padding: 18px;
+}
+.prise{
+    width: 64px;
+    height: 64px;
+    background-color:#c8cfd6;
+    border-radius:50%;
+}
+.inprise{
+    padding: 20px;
+}
+.text-14{
+    font-family: Google Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 22.6885px;
+line-height: 29px;
+margin-top: 4px;
+color: #1D2C3C;
+
+}
+.text-15{
+    font-family: Google Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17.0164px;
+line-height: 22px;
+margin-top: -16px;
+color: #9BA6B2;
+
+}
+.after{
+    margin-left: 40px;
+}
+.linegraph{
+    display: flex;
+}
+.eldor{
+    margin-top: 50px;
+}
+.together{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.first{
+    width: 486px;
+    height: 186px;
+    margin-right: 50px;
+    padding: 30px;
+    background: #FEFEFF;
+box-shadow: 0px 100px 80px rgba(41, 72, 152, 0.05), 0px 64.8148px 46.8519px rgba(41, 72, 152, 0.037963), 0px 38.5185px 25.4815px rgba(41, 72, 152, 0.0303704), 0px 20px 13px rgba(41, 72, 152, 0.025), 0px 8.14815px 6.51852px rgba(41, 72, 152, 0.0196296), 0px 1.85185px 3.14815px rgba(41, 72, 152, 0.012037);
+border-radius: 10px;
+}
